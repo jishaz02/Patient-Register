@@ -25,7 +25,7 @@ npm start
 ## API Endpoints
 
 - /patient/register - POST request to register patient
-- /hospital/{id} - Fetch details of a particular hospital
+- /hospital/{id} - GET request to fetch details of a particular hospital
 
 ### Postman Collection link
 
